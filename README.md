@@ -7,4 +7,4 @@ Helix Jump Game Clone
         <p>1.Level</p><br>
         <img src="ReadmeİcinFotograflar/ReadMeİcin2.PNG" alt=""><br>
          <p>2.Level</p><br>
-         <img src="ReadmeİcinFotograflar/ReadMeİcin1.PNG" alt=""><br>
+         <img src="ReadmeİcinFotograflar/Readmeİcin1.PNG" alt=""><br>
