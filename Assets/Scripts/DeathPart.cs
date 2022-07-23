@@ -1,0 +1,16 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DeathPart : MonoBehaviour {
+
+    private void OnEnable()
+    {
+        GetComponent<Renderer>().material.color = Color.black;//olum parcaları default renk
+    }
+
+    public void HittedDeathPart( )
+    {
+        GameManager.singleton.RestartLevel();
+    }
+}
